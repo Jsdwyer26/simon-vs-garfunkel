@@ -1,0 +1,37 @@
+#newGame {
+	margin: auto 0;
+}
+
+#track1 {
+	padding: 100px;
+	background-color: rgba(100, 50, 50, .35);
+	height: 175px;
+}
+
+#track2 {
+	padding: 100px;
+	background-color: rgba(50, 50, 100, .35);
+	height: 175px;
+}
+
+#reset {
+	margin-top: 15px;
+}
+
+#track1 div {
+	background: url("https://lh3.googleusercontent.com/-Kz7rVQrmmNM/AAAAAAAAAAI/AAAAAAAAAJU/0a5LR6mdk0U/photo.jpg");
+	background-size: cover;
+	padding: 20px;
+}
+
+.artIcon {
+	background: url("http://kreedle.com/wp-content/uploads/images/Art-Garfunkel_851.jpg");
+	background-size: cover;
+	padding: 30px;
+	
+}
+.invisible {
+	visibility: hidden;
+}
+
+
